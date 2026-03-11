@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esneidermajinpalechor@gmail.com)](mailto:esneidermajinpalechor@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573144341614)](https://api.whatsapp.com/send?phone=573144341614)
 
-Hi, I'm Esneider, a Systems Engineer passionate about backend development, clean architecture and AI-assisted tools.
+Hi, I'm Esneider, a Systems Engineer passionate about full stack development, clean architecture and AI-assisted tools.
 
 - 🎓 Systems Engineering graduate from **Universidad del Cauca** — active researcher at the **IDIS Group**.
 - 💼 2+ years of experience building **full stack enterprise web apps** at Nexura Internacional SAS.
